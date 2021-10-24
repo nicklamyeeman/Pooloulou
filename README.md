@@ -74,9 +74,10 @@ git clone https://github.com/nicklamyeeman/Pooloulou.git
 
 Just launch the game and local play with a friend. You can also choose your names
 
-<img src="Assets/README/menu.png" alt="menu" width="47%">
-<img src="Assets/README/names.png" alt="names" width="47%">
-
+<p float="left">
+    <img src="Assets/README/menu.png" alt="menu" width="49%">
+    <img src="Assets/README/names.png" alt="names" width="49%">
+</p>
 <br/>
 
 ![casse](https://github.com/nicklamyeeman/Pooloulou/blob/main/Assets/README/casse.gif)
