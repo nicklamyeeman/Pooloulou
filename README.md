@@ -74,8 +74,8 @@ git clone https://github.com/nicklamyeeman/Pooloulou.git
 
 Just launch the game and local play with a friend. You can also choose your names
 
-<img src="Assets/README/menu.png" alt="menu" widht="49%">
-<img src="Assets/README/names.png" alt="names" widht="49%">
+<img src="Assets/README/menu.png" alt="menu" width="49%">
+<img src="Assets/README/names.png" alt="names" width="49%">
 
 <br/>
 
